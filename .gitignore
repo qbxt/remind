@@ -1,0 +1,6 @@
+.idea
+.idea/*
+*.db
+server/certs
+server/certs/*
+server/launch.sh
